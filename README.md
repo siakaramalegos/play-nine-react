@@ -1,6 +1,6 @@
 # Play Nine
 
-A game created using React.js.
+A game created using React.js. You can play the live version [here](http://siakaramalegos.github.io/play-nine-react/public/)!
 
 ## Game Play
 
